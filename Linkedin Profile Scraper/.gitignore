@@ -1,0 +1,5 @@
+# Exclude mydata.csv
+mydata.csv
+
+# Exclude config.py
+config.py
